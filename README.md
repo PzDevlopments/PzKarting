@@ -9,7 +9,8 @@ Updates for future:
 
 More advanced UI
 Payment
-
+Remove Pz-Kart addon
+Better Fuel
 
 Fuel can be changed in Client.lua
 
