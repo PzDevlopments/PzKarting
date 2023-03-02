@@ -33,3 +33,5 @@ Script Made for GigZ Karting Track
 Download Link: https://forum.cfx.re/t/map-karting-track-race/2270220
 
 /tp -169.35 -2154.67 17.51
+
+Enjoy!
